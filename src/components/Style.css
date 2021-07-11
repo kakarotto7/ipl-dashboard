@@ -1,0 +1,32 @@
+.text{  
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.panel{
+    margin-top: 30px;
+}
+
+.heading{ 
+    color: lightseagreen;
+}
+
+.para{
+     font-size: 15px;
+}
+
+.content{
+     float: right;
+}
+
+.preloader{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.donutchart{
+    margin-top: 30px;
+}
+
+.splinechart{
+    margin-top: 40px;
+}
